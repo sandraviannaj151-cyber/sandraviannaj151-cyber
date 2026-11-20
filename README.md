@@ -1,15 +1,15 @@
 ## Hi there, I'm Sandra Viana! 👋
 
-**AI Training Specialist | Linguistic, Audio/TTS & Multimodal Evaluator | Web & Content Creator**
+**AI Quality & Multimodal Evaluation Specialist | RLHF | Prompt Design | Audio, Voice & Video QA**
 
-I am an independent AI Data & Linguistic Specialist based in São Paulo, Brazil, with over 10 years of analytical, critical thinking, and text-quality experience. I help train, evaluate, and refine Large Language Models (LLMs) and multimodal AI systems across Portuguese, English, and Spanish.
+I am an independent AI Data & Linguistic Specialist based in São Paulo, Brazil, with a background in Accounting and over 10 years of analytical, financial review, and text-quality experience. I specialize in training, evaluating, and refining Large Language Models (LLMs) and multimodal AI systems—ranking responses against complex rubrics, designing multi-constraint prompts, and evaluating speech, images, and video against source material.
 
 ---
 
 ### 🎯 Core Expertise in AI Training & QA
-* **Linguistic & Text Evaluation:** RLHF, prompt engineering, hallucination detection, fact-checking, and Brazilian/European Portuguese grammar & style editing.
-* **Audio, Speech & TTS:** Verbatim audio transcription, Speech-to-Text (STT) verification, and Text-to-Speech (TTS) naturalness and pronunciation rating.
-* **Multimodal & Web Quality:** Live webpage evaluation, UI/UX rubric scoring, image-text alignment, and business logic reasoning.
+* **LLM Evaluation & Prompt Design:** RLHF pairwise ranking, instruction-following testing, multi-constraint prompt engineering, hallucination detection, fact-checking, and Brazilian/European Portuguese grammar & style editing.
+* **Audio, Voice Acting & TTS:** Verbatim audio transcription, voice sample recording, script dubbing, reference voice interpretation (adapting tone, timing, and delivery), Speech-to-Text (STT) verification, and Text-to-Speech (TTS) naturalness rating.
+* **Multimodal, Video & Search QA:** Image and video content verification against model descriptions, live webpage evaluation, UI/UX rubric scoring, map & local search evaluation, and business/financial logic reasoning.
 
 ---
 
@@ -17,13 +17,13 @@ I am an independent AI Data & Linguistic Specialist based in São Paulo, Brazil,
 * 🇧🇷 **Portuguese (Brazil):** Native
 * 🇵🇹 **Portuguese (Portugal):** Fluent
 * 🇺🇸 **English:** Fluent (Professional working proficiency)
-* 🇪🇸 **Spanish:** Fluent
+* 🇪🇸 **Spanish:** Basic
 
 ---
 
-### 🛠️ Tools & Digital Projects
-* **Audio & QA Tools:** Audacity, Windows Voice Recorder, rubric-based evaluation workflows, and web content auditing.
-* **Web & Content Creation:** Portfolio websites, browser-based interactive games, digital educational guides, and AI training mentorship.
+### 🛠️ Tools & Digital Creation
+* **Audio, Data & Productivity:** Audacity, Windows Voice Recorder, Notion, Google Workspace, Microsoft Excel, Salesforce, and Pipedrive.
+* **Web & Content Projects:** AI portfolio websites, browser-based interactive games, educational e-books, and remote AI training mentorship.
 
 ---
 
